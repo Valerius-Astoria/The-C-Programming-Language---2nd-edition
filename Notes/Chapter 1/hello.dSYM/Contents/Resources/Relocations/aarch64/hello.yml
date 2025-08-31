@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/zaka/Library/Files For School/CS & AI/The C Programming Language - 2nd edition/Notes/Chapter 1/hello'
+relocations:     []
+...
